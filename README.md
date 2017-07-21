@@ -5,9 +5,6 @@ Untuk video tidak disertakan dalam kode sumber ini karena ukurannya besar. Untuk
 Running program:<br>
 Buka project1.exe
 
-Aplikasi ini dibuat dengan delphi7.<br>
-Tested on Windows 7, 8.1 & 10.
-
 ![ss1](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss1.JPG)
 ![ss2](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss2.JPG)
 ![ss3](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss3.JPG)
