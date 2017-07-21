@@ -7,3 +7,8 @@ Buka project1.exe
 
 Aplikasi ini dibuat dengan delphi7.<br>
 Tested on Windows 7, 8.1 & 10.
+
+![ss1](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss1.JPG)
+![ss2](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss2.JPG)
+![ss3](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss3.JPG)
+![ss4](https://raw.githubusercontent.com/SuryaAWS/Delphi-Distribusi-Probabilitas/master/ss4.JPG)
